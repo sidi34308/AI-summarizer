@@ -1,4 +1,4 @@
-# Mowjaz
+# Mowjaz (AI Summarizer)
 
 Mowjaz is a web application that allows users to summarize articles and web pages using artificial intelligence.
 
