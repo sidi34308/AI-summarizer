@@ -20,8 +20,3 @@ AI Summarizer is a web application that allows users to summarize articles and w
 - Save summarized articles for later reference
 - View history of summarized articles
 - Responsive design for mobile and desktop
-
-## Getting Started
-To get started with the project, follow these steps:
-
-1. Clone the repository:
