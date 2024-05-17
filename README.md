@@ -1,4 +1,4 @@
-![Alt text](_code/src/public/assets/Desktop - 11.png)
+![IMAGE](./Desktop - 11.png)
 
 # Mowjaz (AI Summarizer)
 
