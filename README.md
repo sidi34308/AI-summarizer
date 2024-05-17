@@ -1,6 +1,6 @@
-# AI Summarizer
+# Mowjaz
 
-AI Summarizer is a web application that allows users to summarize articles and web pages using artificial intelligence.
+Mowjaz is a web application that allows users to summarize articles and web pages using artificial intelligence.
 
 ## Technologies Used
 
