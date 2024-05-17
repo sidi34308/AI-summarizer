@@ -5,15 +5,15 @@ AI Summarizer is a web application that allows users to summarize articles and w
 ## Technologies Used
 
 ### Frontend
-- React.js
-- Tailwind CSS
+- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React.js
+- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> Tailwind CSS
 
 ### Backend
-- Node.js
-- Express.js
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+- <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
 
 ### APIs
-- OpenAI API
+- <img src="https://img.icons8.com/color/48/000000/openai.png"/> OpenAI API
 
 ## Features
 - Summarize articles and web pages
